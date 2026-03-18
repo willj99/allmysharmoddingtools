@@ -3,7 +3,7 @@
 Some of these scripts are made with PowerShell. If they do not run, run PowerShell as **Administrator**.
 
 Paste this into your terminal: 
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
 Once done, try the tools again.
 
