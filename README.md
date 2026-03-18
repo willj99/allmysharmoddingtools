@@ -52,7 +52,7 @@ An older tool that generates:
 
 ## Additional Notes
 
-All tools were created in PowerShell and signed by me.  
+All tools were created in either C# or PowerShell and signed by me.  
 If you receive an anti‑virus prompt, add an exemption in Windows Settings. 
 
 
